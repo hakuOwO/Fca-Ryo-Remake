@@ -1,7 +1,7 @@
 {
   "name": "fca-zera-remake",
   "version": "1.4.6",
-  "description": "Facebook Chat Api Được Remake Bới VĐT Chống Get (available) Và Pay Acc (maybe?)",
+  "description": "Facebook Chat Api Được Remake Bởi Đức Ryo Chống Get (available) Và Pay Acc (maybe?)",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -11,12 +11,12 @@
   "author": "ZeraKage",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZeraKage/Fca-Zera-Remake/issues"
+    "url": "https://github.com/hakuOwO/Fca-Ryo-Remakeissues"
   },
-  "homepage": "https://github.com/ZeraKage/Fca-Zera-Remake#readme",
+  "homepage": "https://github.com/hakuOwO/Fca-Ryo-Remake#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ZeraKage/Fca-Zera-Remake.git"
+    "url": "git://github.com/hakuOwO/Fca-Ryo-Remak.git"
   },
   "dependencies": {
     "aes-js": "latest",
